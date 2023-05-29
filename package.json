@@ -1,0 +1,25 @@
+{
+  "name": "project-3-node",
+  "version": "1.0.0",
+  "description": "Node Revision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawat2511/NodeJs.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Shubham Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawat2511/NodeJs/issues"
+  },
+  "homepage": "https://github.com/rawat2511/NodeJs#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
